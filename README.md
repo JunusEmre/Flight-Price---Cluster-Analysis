@@ -12,7 +12,7 @@ To change the user type, use the dropdown menu located in the **top-left corner*
 
 ## 🚀 Launch the App  
 Click below to open the dashboard directly in Streamlit:  
-👉 [Open in Streamlit]([https://streamlit.io/YOUR_APP_LINK_HERE](https://flight-price---cluster-analysis-rbreuvhasnhimv2kyv2mtg.streamlit.app/))  
+👉 [Open in Streamlit](https://streamlit.io/YOUR_APP_LINK_HERE](https://flight-price---cluster-analysis-rbreuvhasnhimv2kyv2mtg.streamlit.app/)
 _(Replace the URL with your actual Streamlit app link)_
 
 ## ⚙️ Requirements  
