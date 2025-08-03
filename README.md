@@ -27,7 +27,3 @@ Or simply use:
 ```bash
 pip install -r requirements.txt
 ```
-
----
-
-Feel free to add a screenshot or usage demo later if you'd like to dress it up a little! Let me know if you want to add badges, features list, or contribution info too 👨‍💻✨
