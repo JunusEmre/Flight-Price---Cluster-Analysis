@@ -13,6 +13,7 @@ To change the user type, use the dropdown menu located in the **top-left corner*
 ## 🚀 Launch the App  
 Click below to open the dashboard directly in Streamlit:  
 👉 [Open in Streamlit](https://flight-price---cluster-analysis-rbreuvhasnhimv2kyv2mtg.streamlit.app/)
+⏳ **Note:** The Streamlit app may take a moment to load due to initial setup or data processing. If it seems slow, please be patient — it will launch shortly!
 
 ## ⚙️ Requirements  
 To run the app locally using the Python file, make sure you have the following packages installed:
@@ -26,3 +27,12 @@ Or simply use:
 ```bash
 pip install -r requirements.txt
 ```
+## 🔍 Clustering Traveler Behaviors
+
+To better understand flight usage patterns, I applied clustering to group similar types of travelers based on their behavior — such as preferred routes, airlines, or travel frequency.
+
+🧭 **Note:** Price, spending habits, and socioeconomic features were not prioritized in this analysis. Instead, the goal was to uncover travel clusters based on usage patterns — not consumer segmentation.
+
+While the clustering may not produce sharply separated visual groups, it offers insights into which routes and airlines tend to attract similar usage behavior.
+
+🔬 Think of it as a way to group travelers by **how they travel**, not **why they travel**.
